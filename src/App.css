@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+  padding: 5px;
+  gap: 5px;
+}
+
+.app__content {
+  width: min(100%, 500px);
+  padding: 5px;
+}
